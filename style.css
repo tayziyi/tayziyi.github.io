@@ -1,0 +1,33 @@
+/* p {color: red} */
+/* change body to have black background, text color white, font text sans-serif */
+
+body {
+    /*inside this will modify the body*/
+    background-color: black;
+    color: white;
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+p {
+    margin: 10px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 5px;
+    background-color: grey;
+}
+
+.icons {
+    height: 169px;
+}
+
+ol li {
+    background-color: gray;
+}
+
+p.ziyi {
+    font-size: 15px;
+}
+
+h2:hover {
+    color: red;
+}
